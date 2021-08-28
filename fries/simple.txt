@@ -2,3 +2,5 @@ potato
 oil
 pepper
 salt
+sonya
+mabel
